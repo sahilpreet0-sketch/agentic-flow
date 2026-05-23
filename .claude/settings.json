@@ -47,6 +47,11 @@
             "type": "command",
             "command": "node .claude/helpers/auto-memory-hook.mjs import",
             "timeout": 8000
+          },
+          {
+            "type": "command",
+            "command": "$CLAUDE_PROJECT_DIR/.claude/hooks/session-start.sh",
+            "timeout": 120000
           }
         ]
       }
