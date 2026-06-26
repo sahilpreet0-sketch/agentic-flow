@@ -1427,10 +1427,41 @@ Two qualifying options remain for June 25:
 
 **LESSON #8:** AI search tools can surface historical articles matching keywords (e.g. "Wheeler Mets"). Always verify article date by cross-checking internal context clues (team record, loss streak, score) before logging a result. A "7-game losing streak" claim is a falsification signal if the same team won within the presumed streak window.
 
-### June 26 Preview
+### June 26 — CONFIRMED PICKS (two independent day-of research passes)
 
-- **Yamamoto (Dodgers, 2.52 ERA)** @ San Diego Padres — Tatis Jr. (79 H, 18 SB), Machado (12 HR, 36 RBI), Merrill (12 SB, 30 RBI). Dodgers pen still under scrutiny after June 20. Full bullpen check mandatory day-of before qualifying.
-- **Wheeler (Phillies, 2.01 ERA)** — returns June 26. Check opponent and pen day-of.
-- **Dylan Cease (Blue Jays, 2.71 ERA)** — returns June 26, ERA at 2.71 is marginal. Needs opponent review.
+**Pre-research corrections (LESSON #10 — pre-research expires):**
 
-All June 26 picks require day-of research session.
+- **Yamamoto** NOT pitching June 26 — scheduled **June 28** @ Padres. Voided.
+- **Cease** NOT pitching June 26 — scheduled **June 27** vs Rangers. Voided.
+- **Wheeler** CONFIRMED June 26 @ Mets (road start) — the live pick.
+
+#### BET 1 — Phillies ML + Mets TT under 3.5 (SGP, 7:10 PM ET, Citi Field)
+
+| Field                 | Data                                                                       |
+| --------------------- | -------------------------------------------------------------------------- |
+| Phillies starter      | Zack Wheeler — 7-1, 2.11 ERA, 8.9 K/9. ≤2 runs in 9 of 11 starts           |
+| June form             | 3-0, 1.82 ERA over 4 starts. Last out: 6 IP, 2 H, 9 K                      |
+| Mets offense          | .227 AVG, .652 OPS, -47 run differential — weak                            |
+| Mets starter          | Zach Thornton (rookie LHP, 0-1, 8.31 ERA) — major mismatch                 |
+| Phillies closer       | Jhoan Duran 1.69 ERA, 19/20 saves ✅ — PASSES ≤2.50                        |
+| Split caveat          | Wheeler on ROAD (home ERA 1.78, slightly worse away)                       |
+| Phillies ML true prob | ~62-65%                                                                    |
+| SGP correlation       | Wheeler dominates → low Mets scoring → ML + TT under positively correlated |
+| Verdict               | ✅ #1 ML both passes — PLACE 1× standard unit                              |
+
+#### BET 2 — Two-ace K parlay: Misiorowski Over 5.5 Ks + Skenes Over 5.5 Ks
+
+| Field             | Data                                                                              |
+| ----------------- | --------------------------------------------------------------------------------- |
+| Misiorowski (MIL) | 8-3, 1.45 ERA, 13.4 K/9 — MLB leader. 0.45 ERA since May 1. Home vs Cubs          |
+| Miso caveat       | Cubs low-K offense (24th) — STUFF play, not matchup play. 13.4 K/9 carries. ~72%  |
+| Skenes (PIT)      | 2.85 ERA, 10.9 K/9. Home vs Reds (5 regulars >27% K%) — best K matchup. ~75%      |
+| Bullpen exposure  | None — K props decided before pitcher leaves the mound                            |
+| Combined parlay   | ~54%. Each leg clears 60%+ as a single — split into 2 singles for higher hit rate |
+| Verdict           | ✅ PLACE separately from BET 1. Do NOT combine BET 1 + BET 2                      |
+
+**Why no 2nd ML SGP:** Only one clean ML SGP existed (Phillies). Brewers closer Megill (~4.29 / committee) and Pirates (no closer — Bednar traded to NYY in 2025) both FAIL the ≤2.50 bullpen check. K parlay fills BET 2.
+
+**Data-confidence note:** Direct fetches to statsapi.mlb.com / ESPN / CBS / FantasyPros were blocked by egress policy (HTTP 403). All figures corroborated across multiple independent same-day previews (MLB.com, SI, FanDuel, NBC, Covers, Baseball-Reference snippets). Exact home/road ERA splits could not be pulled from primary tables — treat split figures as directional.
+
+**LESSON #10 reinforced:** Pre-research (Yamamoto/Cease) was stale by 2 days. Both were voided on day-of schedule check before any bet was built. Always re-verify the probable-pitcher schedule day-of.
