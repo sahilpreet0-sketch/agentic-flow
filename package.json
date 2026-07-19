@@ -44,6 +44,8 @@
     }
   },
   "scripts": {
+    "betting-bot": "npx tsx src/sports-betting/bot.ts",
+    "betting-stats": "npx tsx src/sports-betting/stats-cli.ts",
     "postinstall": "cd agentic-flow && node scripts/postinstall.js || true",
     "prepare": "bash scripts/setup-husky.sh || true",
     "build": "npm run build:main && npm run build:packages",
@@ -208,6 +210,7 @@
     "@ruvector/ruvllm": "^2.5.3",
     "@ruvector/sona": "^0.1.3",
     "@supabase/supabase-js": "^2.78.0",
+    "@types/node-telegram-bot-api": "^0.64.14",
     "@types/react": "^19.2.2",
     "@types/react-dom": "^19.2.2",
     "@vitejs/plugin-react-swc": "^4.2.0",
@@ -223,6 +226,7 @@
     "http-proxy-middleware": "^3.0.5",
     "lucide-react": "^0.548.0",
     "marked": "^17.0.3",
+    "node-telegram-bot-api": "^0.67.0",
     "postcss": "^8.5.15",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
